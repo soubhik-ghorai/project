@@ -1,4 +1,5 @@
 <?php
+// r6r6tytyu
 $id=$_GET['id'];
 $con=mysqli_connect("localhost","root","","soubhik");
 $sql="delete from student where id=$id";

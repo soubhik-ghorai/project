@@ -1,4 +1,5 @@
 <?php
+// guigiguiu
 $id=$_GET['id'];
 $con=mysqli_connect("localhost","root","","soubhik");
 $sql="select*from student where id=$id";
