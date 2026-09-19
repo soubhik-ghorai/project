@@ -1,4 +1,5 @@
 <?php
+// HELL jjhjkhkk
 $x=$_POST['name'];
 $y=$_POST['roll'];
 $con=mysqli_connect("localhost","root","","soubhik");
